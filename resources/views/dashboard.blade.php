@@ -66,11 +66,6 @@
                 <h2 class="text-xl font-semibold">Payments</h2>
                 <p class="text-gray-600">Manage payments and billing</p>
             </a>
-            <a href="{{ route('download.zip') }}" class="bg-white p-6 rounded shadow hover:shadow-lg transition">
-                <i class="fas fa-file-archive text-blue-600 text-3xl mb-2"></i>
-                <h2 class="text-xl font-semibold">Download Zip</h2>
-                <p class="text-gray-600">Download the clinic-inova-medika-fresh.zip file</p>
-            </a>
         </div>
     </main>
 </body>
